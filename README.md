@@ -16,7 +16,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jorgeisa&show_icons=true&locale=en" alt="jorgeisa" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jorgeisa&" alt="jorgeisa" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=jorgeisa&theme=dark&border_radius=15)](https://git.io/streak-stats)
+
 
 <!--
 **jorgeisa/jorgeisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
