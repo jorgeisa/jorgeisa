@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Isaac Xicol</h1>
 <h3 align="center">A passionate developer from Guatemala. I really like developing frontend and backend code!</h3>
 
-- 📫 How to reach me **isaacxicol@gmail.com**
+- 📫 How to reach me: **isaacxicol@gmail.com**
 
-- ⚡ Fun fact **I like cats. :)**
+- ⚡ Fun fact: **I like cats. :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
